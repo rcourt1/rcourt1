@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Azure DevOps Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rcourt1](https://github.com/rcourt1)
-
-- 📫 How to reach me **rcourt2000@gmail.com**
-
 <p align="center">
   👨‍💻 All of my projects are available at
   <a href="https://github.com/rcourt1">https://github.com/rcourt1</a><br>
