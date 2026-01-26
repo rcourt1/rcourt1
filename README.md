@@ -15,7 +15,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/robert-court-177780175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-court-177780175" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcourt1&show_icons=true&locale=en&layout=compact" alt="rcourt1" />
-</p>
