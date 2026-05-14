@@ -3,9 +3,9 @@
 
 <p align="center">
   👨‍💻 All of my projects are available at
-  <a href="https://github.com/rcourt1">https://github.com/rcourt1</a><br>
+  <a href="https://github.com/rcourt1">github.com/rcourt1</a><br>
   🌐 My portfolio website is available at
-  <a href="https://rcourt1.github.io/">https://rcourt1.github.io/</a><br>
+  <a href="https://rcourt1.github.io/">rcourt1.github.io</a><br>
   📫 How to reach me
   <a href="mailto:rcourt2000@gmail.com">rcourt2000@gmail.com</a>
 </p>
