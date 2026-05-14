@@ -2,11 +2,11 @@
 <h3 align="center">Azure DevOps Engineer</h3>
 
 <p align="center">
-  👨‍💻 All of my projects are available at
+  👨‍💻 All of my projects are available at : 
   <a href="https://github.com/rcourt1">github.com/rcourt1</a><br>
-  🌐 My portfolio website is available at
+  🌐 My portfolio website is available at : 
   <a href="https://rcourt1.github.io/">rcourt1.github.io</a><br>
-  📫 How to reach me
+  📫 How to reach me : 
   <a href="mailto:rcourt2000@gmail.com">rcourt2000@gmail.com</a>
 </p>
 
